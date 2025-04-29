@@ -29,7 +29,7 @@ Sou um estudante apaixonado por desenvolvimento de software e atualmente estou e
 
 ## 📊 Estatísticas GitHub
 ![Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xOmilk&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xOmilk&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xOmilk&layout=compact&theme=tokyonight&exclude_repo=repo_com_shell)
 
 
 ## 🐍 Snake com meus commits
