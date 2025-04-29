@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Antônio Leite!
 
-<!--
-**xOmilk/xOmilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação - 4º semestre  
+💻 Focado em desenvolvimento com Java, C e Python  
+📚 Interesses: Estrutura de Dados, Banco de Dados, POO, Interfaces e Projetos Acadêmicos  
+🌱 Atualmente estudando: Interfaces Homem-Máquina e Estruturas de Dados em C  
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas GitHub
+![Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xOmilk&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xOmilk&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contato:
+- Email: seuemail@email.com
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuperfil)
