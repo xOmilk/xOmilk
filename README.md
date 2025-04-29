@@ -19,7 +19,16 @@
 ![Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xOmilk&show_icons=true&theme=tokyonight)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xOmilk&layout=compact&theme=tokyonight)
 
+
+## 🐍 Snake com meus commits
+![snake gif](https://github.com/xOmilk/xOmilk/blob/output/github-contribution-grid-snake.svg)
+
 ---
+
+
+
+## Visite meu site de portfolio:
+
 
 ### 📫 Entre Em Contato:
 - Email: leite.aglo@gmail.com
