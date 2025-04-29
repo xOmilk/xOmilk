@@ -3,7 +3,7 @@
 🎓 Estudante de Sistemas de Informação - 5º semestre  
 💻 Focado em desenvolvimento com: Java, C, JavaScript e tecnologias web  
 📚 Gostos e interesses: Estrutura de Dados, Banco de Dados, POO, Interfaces  
-🌱 Atualmente interessado em: Desenvolvimento Web e suas tecnologias  
+🌱 Atualmente estudando: Desenvolvimento Web e suas tecnologias  
 
 ## 🧰 Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
