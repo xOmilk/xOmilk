@@ -32,13 +32,6 @@ Sou um estudante apaixonado por desenvolvimento de software e atualmente estou e
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xOmilk&layout=compact&theme=tokyonight&exclude_repo=repo_com_shell)
 
 
-## 🐍 Snake com meus commits
-![snake gif](https://github.com/xOmilk/xOmilk/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
-
 ## 🚧 Visite meu site de portfolio (Ainda em construção):
 ...
 
