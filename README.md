@@ -5,8 +5,7 @@ Sou um estudante apaixonado por desenvolvimento de software e atualmente estou e
 
 
 🎓 Estudante de Sistemas de Informação - 5º semestre  
-💻 Focado em desenvolvimento com: Java, C, JavaScript e tecnologias web  
-📚 Gostos e interesses: Estrutura de Dados, Banco de Dados, POO, Interfaces  
+💻 Focado em desenvolvimento com: Java, C, JavaScript e tecnologias web
 🌱 Atualmente estudando: Desenvolvimento Web e suas tecnologias  
 
 
