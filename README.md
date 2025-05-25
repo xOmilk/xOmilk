@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Antônio Leite!
 
 ## 💡 Sobre mim
-Sou um estudante apaixonado por desenvolvimento de software e atualmente estou expandindo meus conhecimentos em **Desenvolvimento Web**. Tenho experiência com linguagens como **Java**, **C**, **JavaScript** e tecnologias como **HTML/CSS/SASS** e **Git**. Tenho bastante interesse pelo estudo da área de banco de dados e gostei bastante de trabalhar com Java. Atualmente venho aprendendo sobre WEB e também me despertou um grande interesse
+Sou um estudante apaixonado por desenvolvimento de software e atualmente estou expandindo meus conhecimentos em **Desenvolvimento Web**. Tenho experiência com linguagens como **Java**, **C**, **JavaScript** e tecnologias como **HTML/CSS/SASS** e **Git**. Tenho bastante interesse pelo estudo da área de banco de dados e gostei bastante de estudar sobre Java. Atualmente venho aprendendo sobre WEB e também me despertou um grande interesse
 
 
 🎓 Estudante de Sistemas de Informação - 5º semestre  
